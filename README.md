@@ -3,7 +3,7 @@
 Bu proje, bir perakende zincirinin satış verilerini analiz etmek amacıyla oluşturulmuştur. Ham veri seti Pandas kütüphanesi ile işlenmiş ve sorgulanabilir bir **SQLite** veritabanına dönüştürülmüştür.
 
 ## 🛠 Kullanılan Teknolojiler
-- **Dil:** Python 3.x
+- **Dil:** Python 3.14.2
 - **Kütüphaneler:** Pandas, SQLite3, Matplotlib
 - **Ortam:** Jupyter Notebook (VS Code)
 
